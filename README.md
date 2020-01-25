@@ -1,4 +1,12 @@
 # SFND_Radar
+
+## Useful Links 
++ [Intro to Radar](https://www.radartutorial.eu/html/sm03.en.html)
++ [MIT course](https://www.youtube.com/watch?v=Hw5IaS6-Fzw&list=PLUJAYadtuizA8RC2Qk8LfmiWA56HZsk9y)
++ [FFT Matlab](https://www.gaussianwaves.com/2014/07/how-to-plot-fft-using-matlab-fft-of-basic-signals-sine-and-cosine-waves/)
++ [The course is based on this paper](http://www.codar.com/images/about/1990LipaBarr_FMCW.pdf)
+
+
 ## Repository for the Radar project &amp; documentation of the Sensor Fuion Nanodegree
 
 ## Implementation of the 2D CFAR 
